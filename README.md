@@ -9,3 +9,5 @@ To Use:
     - Initialize MYSQL
     - Run node application 
     - HAVE FUN! 
+
+### SEE ATTACHED VIDEO FOR DEMO
